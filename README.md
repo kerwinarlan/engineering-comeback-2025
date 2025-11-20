@@ -20,3 +20,15 @@ This space will track my progress, projects, and consistent skill building.
 - To rebuild my engineering identity through disciplined, daily action  
 - To track my learning journey publicly for accountability  
 - To build my coding + CE portfolio slowly but consistently
+
+*November 19, 2025 — 11:37 PM*
+- Idea: Analyze PH Ghost Projects
+- Planned flood control data-cleaning project
+- Evaluate Manufacturing Process: Advanced SQL exercise on CTEs and Window Functions
+
+
+*November 20, 2025 — 3:06 PM*
+- Finished Cleaning Data in PostgreSQL Databases
+- Practiced writing sample templates when converting and transforming data
+- Python Day 8 from Asabeneh  
+- Plan: Watch 1 CE review video on Reinforced Concrete
