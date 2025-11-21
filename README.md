@@ -32,3 +32,9 @@ This space will track my progress, projects, and consistent skill building.
 - Practiced writing sample templates when converting and transforming data
 - Python Day 8 from Asabeneh  
 - Plan: Watch 1 CE review video on Reinforced Concrete
+
+*November 21, 2025 — 8:14 PM*
+- Finished Introduction to Importing Data in Python
+- Attempt beginner :eetcode SQL Problems
+- Python Day 9 from Asabeneh  
+- Small Thesis Related Studies update
