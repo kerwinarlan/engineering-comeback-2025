@@ -38,3 +38,11 @@ This space will track my progress, projects, and consistent skill building.
 - Attempt beginner :eetcode SQL Problems
 - Python Day 9 from Asabeneh  
 - Small Thesis Related Studies update
+
+📅 November 21, 2025 — Major Progress Update
+
+- Passed Data Engineer Associate Exam (DataCamp)
+- Solved multiple SQL LeetCode problems (incl. Medium: Consecutive Numbers & Hard: Department Top 3 Salaries)
+- Started exploring “Unfinished Flood Control Projects” dataset (for CE + DE crossover)
+- Reviewed Statics: Moments → Friction → Belt Friction
+- Downloaded Vector Mechanics for Engineers (Beer & Johnston) for CE fundamentals refresh
