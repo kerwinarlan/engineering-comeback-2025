@@ -51,3 +51,28 @@ This space will track my progress, projects, and consistent skill building.
 - Practiced algorithms (Merge Sort)
 - CE Review Reminders: Fluid Mechanics
 - Prep for relocation: possible offline study later
+
+*November 24-25, 2025*
+- OFFLINE SETUP BEGINS
+- Fixed desktop setup (new home address)
+- Practiced vector mechanics
+
+*November 26, 2025*
+- Day 3 Mixed Strength routine (push-ups + pull-ups)
+- Moments of Inertia (Area) -> Centroid of Volumes
+- Began hydrostatics problems
+- Tried T-SQL Recipes Problem and Solutions
+
+*November 27, 2025*
+- Reviewed own notes on SQL (from DataCamp lessons)
+- Worked on composite areas (RE Area Moment of Inertia)
+- Initial thoughts of gantt chart revision for potential thesis
+
+*November 28, 2025*
+- 5x Short sprints
+- Derived mass moments of inertia of common shapes (BONUS: tetrahedron)
+- Datacamp streak
+
+
+
+
