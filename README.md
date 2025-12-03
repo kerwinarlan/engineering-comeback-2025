@@ -73,6 +73,16 @@ This space will track my progress, projects, and consistent skill building.
 - Derived mass moments of inertia of common shapes (BONUS: tetrahedron)
 - Datacamp streak
 
-
+*November 29-30, 2025*
+- Learned importing data in Python
+- Mass moment of inertia composite shapes
+  
+*December 1-2, 2025*
+- Data Manipulation Using Pandas
+- Learned basic APIs in Python
+  
+*December 3, 2025*
+- Focus on Thesis Topic Finalization and Skeleton Docu
+- Download GEBCO/SRTM files for Area of Study
 
 
