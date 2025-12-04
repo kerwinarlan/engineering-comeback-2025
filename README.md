@@ -85,4 +85,7 @@ This space will track my progress, projects, and consistent skill building.
 - Focus on Thesis Topic Finalization and Skeleton Docu
 - Download GEBCO/SRTM files for Area of Study
 
+*December 4, 2025*
+- Finalize on the domain of my area of study
+
 
