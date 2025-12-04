@@ -86,6 +86,7 @@ This space will track my progress, projects, and consistent skill building.
 - Download GEBCO/SRTM files for Area of Study
 
 *December 4, 2025*
-- Finalize on the domain of my area of study
+- Finalize the domain of my area of study on QGIS
+- More Related Literature
 
 
