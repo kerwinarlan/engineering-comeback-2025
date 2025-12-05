@@ -89,4 +89,8 @@ This space will track my progress, projects, and consistent skill building.
 - Finalize the domain of my area of study on QGIS
 - More Related Literature
 
+*December 5, 2025*
+-Review Shear/ Moment Diagrams of Beams
+-Inner Joins in DataFrames
+
 
