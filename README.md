@@ -90,7 +90,7 @@ This space will track my progress, projects, and consistent skill building.
 - More Related Literature
 
 *December 5, 2025*
--Review Shear/ Moment Diagrams of Beams
--Inner Joins in DataFrames
+- Review Shear/ Moment Diagrams of Beams
+- Inner Joins in DataFrames
 
 
