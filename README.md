@@ -93,4 +93,6 @@ This space will track my progress, projects, and consistent skill building.
 - Review Shear/ Moment Diagrams of Beams
 - Inner Joins in DataFrames
 
+*December 6, 2025*
+- Finished module on oining with Pandas
 
