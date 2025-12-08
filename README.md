@@ -99,4 +99,7 @@ This space will track my progress, projects, and consistent skill building.
 *December 7, 2025*
 - Produced versions 2 and 3 of the domain of the Area of Study
 
+*December 8, 2025*
+- Georeferenced and combined 8 NAMRIA 1:50000 topo maps into a single domain shapefile
+
 
