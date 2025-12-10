@@ -102,4 +102,7 @@ This space will track my progress, projects, and consistent skill building.
 *December 8, 2025*
 - Georeferenced and combined 8 NAMRIA 1:50000 topo maps into a single domain shapefile
 
+*December 9-10, 2025*
+- VRT for NAMRIA mosaic DONE
+
 
