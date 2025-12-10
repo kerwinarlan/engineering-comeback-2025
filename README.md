@@ -104,5 +104,6 @@ This space will track my progress, projects, and consistent skill building.
 
 *December 9-10, 2025*
 - VRT for NAMRIA mosaic DONE
+- reviewed python day 12 modules from Asabeneh
 
 
