@@ -106,4 +106,8 @@ This space will track my progress, projects, and consistent skill building.
 - VRT for NAMRIA mosaic DONE
 - reviewed python day 12 modules from Asabeneh
 
+*December 11, 2025*
+- GEBCO + VRT merged
+- Domain shapefile finalized
+
 
