@@ -110,9 +110,12 @@ This space will track my progress, projects, and consistent skill building.
 - GEBCO + VRT merged
 - Domain shapefile finalized
 
-*December 12, 2025*
+*December 12-13, 2025*
 - Started learning Delft3D
 - Downloaded IBTrACS csv for selected Typhoon
 - Cleaning Data in Python (on Common Data Problems e.g. Type & Range Constraints, Duplicates)
+
+*December 14, 2025*
+- Combined selected areas from PSGC Province Shapefiles
 
 
