@@ -118,4 +118,8 @@ This space will track my progress, projects, and consistent skill building.
 *December 14, 2025*
 - Combined selected areas from PSGC Province Shapefiles
 
+*December 15, 2025*
+- Clean MANILA COASTLINE shp ready for RGFGRID
+
+
 
