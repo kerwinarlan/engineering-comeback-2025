@@ -122,7 +122,11 @@ This space will track my progress, projects, and consistent skill building.
 - Clean MANILA COASTLINE shp ready for RGFGRID
 
 *December 16, 2025*
-- Clean land boundary file (.ldb) ready for mesh
+- Clean land boundary file (.ldb) ready for 
 
+*December 17,2025*
+- Initial mesh produced from land boundary
+- upto 3 versions 
+- will transform GEBCO files to necessary XYZ files
 
 
