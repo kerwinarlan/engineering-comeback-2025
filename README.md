@@ -128,5 +128,6 @@ This space will track my progress, projects, and consistent skill building.
 - Initial mesh produced from land boundary
 - upto 3 versions 
 - will transform GEBCO files to necessary XYZ files
+- Cleaned Bank Marketing Campaign Data
 
 
