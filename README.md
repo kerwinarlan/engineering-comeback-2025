@@ -130,4 +130,7 @@ This space will track my progress, projects, and consistent skill building.
 - will transform GEBCO files to necessary XYZ files
 - Cleaned Bank Marketing Campaign Data
 
+*December 18,2025*
+- Finished Writing Efficient Code in Python
+
 
