@@ -133,4 +133,7 @@ This space will track my progress, projects, and consistent skill building.
 *December 18,2025*
 - Finished Writing Efficient Code in Python
 
+*December 19,2025*
+- Mesh fixing in Delft3D QUICKIN 
+
 
