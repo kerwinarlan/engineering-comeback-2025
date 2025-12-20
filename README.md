@@ -134,6 +134,9 @@ This space will track my progress, projects, and consistent skill building.
 - Finished Writing Efficient Code in Python
 
 *December 19,2025*
-- Mesh fixing in Delft3D QUICKIN 
+- Mesh fixing in Delft3D QUICKIN
+
+*December 20,2025*
+- NAMRIA Digitizing on QGIS 
 
 
