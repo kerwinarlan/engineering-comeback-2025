@@ -141,5 +141,6 @@ This space will track my progress, projects, and consistent skill building.
 
 *December 21,2025*
 - 500m grid on Manila Bay
+- Moment and Shear Function Derivation
 
 
