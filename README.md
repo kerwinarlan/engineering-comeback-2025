@@ -137,6 +137,9 @@ This space will track my progress, projects, and consistent skill building.
 - Mesh fixing in Delft3D QUICKIN
 
 *December 20,2025*
-- NAMRIA Digitizing on QGIS 
+- NAMRIA Digitizing on QGIS
+
+*December 21,2025*
+- 500m grid on Manila Bay
 
 
