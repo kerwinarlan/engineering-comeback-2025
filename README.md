@@ -143,4 +143,9 @@ This space will track my progress, projects, and consistent skill building.
 - 500m grid on Manila Bay
 - Moment and Shear Function Derivation
 
+*December 22,2025*
+- Completed Moment and Shear lessons and examples
+- Loaded vertices of Manila Bay and Islands then converted to landbase files
+
+
 
