@@ -147,5 +147,8 @@ This space will track my progress, projects, and consistent skill building.
 - Completed Moment and Shear lessons and examples
 - Loaded vertices of Manila Bay and Islands then converted to landbase files
 
+*December 23,2025*
+- Sample grd mesh from cleaned coastline  islands polygon
+
 
 
