@@ -156,6 +156,7 @@ This space will track my progress, projects, and consistent skill building.
 *December 25, 2025*
 - Needs fixes on boundary conditions on Delft3D Flow
 - Began Software Engineering Principles in Python
+- Downloaded more related literature from professors on Delft3D and or Manila bay
 
 
 
