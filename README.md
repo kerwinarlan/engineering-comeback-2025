@@ -153,5 +153,9 @@ This space will track my progress, projects, and consistent skill building.
 *December 24,2025*
 - Readied file for DELFT3D Flow
 
+*December 25, 2025*
+- Needs fixes on boundary conditions on Delft3D Flow
+- Began Software Engineering Principles in Python
+
 
 
