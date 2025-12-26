@@ -158,5 +158,8 @@ This space will track my progress, projects, and consistent skill building.
 - Began Software Engineering Principles in Python
 - Downloaded more related literature from professors on Delft3D and or Manila bay
 
+*December 26, 2025*
+- Finished Software Engineering Principles in Python
+
 
 
