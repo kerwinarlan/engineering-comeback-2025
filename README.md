@@ -161,5 +161,8 @@ This space will track my progress, projects, and consistent skill building.
 *December 26, 2025*
 - Finished Software Engineering Principles in Python
 
+*December 27, 2025*
+- Installed delft3dfmpy
+- Read intro to Trusses under Statics
 
 
