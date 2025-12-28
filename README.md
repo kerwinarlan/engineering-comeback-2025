@@ -165,4 +165,5 @@ This space will track my progress, projects, and consistent skill building.
 - Installed delft3dfmpy
 - Read intro to Trusses under Statics
 
-
+*December 28, 2025*
+- Holland(1980)-Kossin(2007) wind forcing for typhoon Fung-Wong(2025)
