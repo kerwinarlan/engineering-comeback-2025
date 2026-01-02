@@ -167,3 +167,8 @@ This space will track my progress, projects, and consistent skill building.
 
 *December 28, 2025*
 - Holland(1980)-Kossin(2007) wind forcing for typhoon Fung-Wong(2025)
+- just the GUI with no computational kernels (?)
+- will compile the kernels
+
+*January 1,2026*
+- ETL ELT Python
